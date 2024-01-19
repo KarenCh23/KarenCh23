@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Graphic webdesigner and Front-end developer base in France, Brittany.</p>
+<h3 align="left">Creative webdesigner and Front-end developer base in France, Brittany.</h3>
 
 ###
 
