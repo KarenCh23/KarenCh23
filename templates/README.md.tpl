@@ -12,7 +12,7 @@
 
 
 #### 👷 The project I'm currently working on 
-{{range recentContributions 1}}
+{{range recentContributions 2}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
