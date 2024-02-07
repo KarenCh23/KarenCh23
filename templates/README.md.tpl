@@ -13,8 +13,8 @@
 <p align="left">✨I like developing creative designs and innovative web applications that offer users a unique digital experience.<br>📚 I'm currently learning ... everyday some more, in order to improve my programming skills :)<br>💻 I love working with React and Next.Js, but i'm always ready to discover other frameworks and languages !</p>
 
 
-#### 👷 Projects I'm currently working on 
-{{range recentContributions 3}}
+#### 👷 The project I'm currently working on 
+{{range recentContributions 1}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
