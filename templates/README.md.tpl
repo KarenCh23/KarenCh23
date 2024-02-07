@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="245" width="100%" src="images/Hey_there.gif" alt="github profile banner" />
+  <img height="300" width="100%" src="images/Hey_there.gif" alt="github profile banner" />
 </div>
 
 ###
@@ -82,7 +82,7 @@
 
 ###
 
-<h2 align="left">Favorite Frameworks</h2>
+<h2 align="left">Favorite Frameworks & Libraries</h2>
 
 ###
 
