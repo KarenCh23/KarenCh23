@@ -18,8 +18,6 @@
 - [KarenCh23/Butterfly-effect](https://github.com/KarenCh23/Butterfly-effect) - Landing Page with React Three Fiber animations 
 - [KarenCh23/JS-Quiz](https://github.com/KarenCh23/JS-Quiz) - How well do you know Javascript ? Let&#39;s find out with this little quiz
 - [KarenCh23/Nearby](https://github.com/KarenCh23/Nearby) - Nearby Project - Website to promote regional producers to consumers. One-month delivery challenge, team of 4 developers.
-- [KarenCh23/On-Track](https://github.com/KarenCh23/On-Track) - Music App Project - With Next JS ~ Tailwind CSS ~ Spotify API
-- [KarenCh23/cv](https://github.com/KarenCh23/cv) - CV &amp; Portfolio Version 1 - En cours de migration sur Next.Js 
 
 ###
 
