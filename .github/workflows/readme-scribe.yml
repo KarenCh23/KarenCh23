@@ -22,8 +22,8 @@ jobs:
               writeTo: "README.md"
           - name: Push
             run: | 
-              git config user.name readme-scribe 🤖
-              git config user.email actions@github.com
+              git config user.name ${{ github.actor }}
+              git config user.email karenchamand@hotmail.fr
               git add .
               git commit -m "generated profile"
               git push origin main
