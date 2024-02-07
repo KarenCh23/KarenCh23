@@ -14,6 +14,7 @@
 #### 👷 The project I'm currently working on 
 
 - [KarenCh23/Butterfly-effect](https://github.com/KarenCh23/Butterfly-effect) - Landing Page with React Three Fiber animations 
+- [KarenCh23/JS-Quiz](https://github.com/KarenCh23/JS-Quiz) - How well do you know Javascript ? Let&#39;s find out with this little quiz
 
 ###
 
