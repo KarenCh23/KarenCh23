@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="250" src="images/Hey_there.gif" />
+</div>
+
+###
+
 <h1 align="center">Hey 👋 I'm Karen</h1>
 
 ###
