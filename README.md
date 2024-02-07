@@ -4,6 +4,14 @@
 
 ###
 
+<h1 align="center">Hey 👋 I'm Karen</h1>
+
+###
+
+<h4 align="center">Creative webdesigner and Front-end developer base in France, Brittany.</h4>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
