@@ -4,8 +4,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # “At 10:00 on every day-of-week from Monday through Saturday.”
-    - cron: '5 0 * * 1-6'
+    # “At 15:35 on every day-of-week from Monday through Saturday.”
+    - cron: '35 15 * * 1-6'
 
 jobs:
   update-readme:
