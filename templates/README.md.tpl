@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="245" width="100%" src="images/Hey_there_resized.gif" alt="github profile video" />
+  <img height="245" width="100%" src="images/Hey_there_resized.gif" alt="github profile banner" />
 </div>
 
 ###
