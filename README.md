@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">Today, I'm working on my projects with peace of mind </h2>
+<h2 align="left">Today, I'm working on my projects with music </h2>
 
 ###
 
@@ -137,7 +137,7 @@
 
 ###
 
-<a align="left" target="_blank">https://www.karenchamand.fr/</a>
+<a align="left" target="_blank">https://www.karenchamandchatard.fr/</a>
 
 ###
 
@@ -146,7 +146,7 @@
 ###
 
 <div align="left">
-<a href="https://www.linkedin.com/in/karen-chamand/" target="_blank">
+<a href="https://www.linkedin.com/in/karen-chamand-chatard/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
 </div>
