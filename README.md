@@ -137,7 +137,7 @@
 
 ###
 
-<a align="left" target="_blank">https://www.karenchamandchatard.fr/</a>
+<a align="left" target="_blank"></a>
 
 ###
 
