@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">Today, I'm working on my projects with peace of mind </h2>
+<h2 align="left">Today, I'm working on my projects with music </h2>
 
 ###
 
@@ -137,7 +137,7 @@
 
 ###
 
-<a align="left" target="_blank"></a>
+<a align="left" target="_blank">https://www.karenchamandchatard.fr/</a>
 
 ###
 
