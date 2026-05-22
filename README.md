@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">Today, I'm working on my projects with music </h2>
+<h2 align="left">Today, I'm working on my projects with eyeglasses on my nose </h2>
 
 ###
 
