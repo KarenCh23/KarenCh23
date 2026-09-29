@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">Today, I'm working on my projects with curiosity </h2>
+<h2 align="left">Today, I'm working on my projects with fun </h2>
 
 ###
 
